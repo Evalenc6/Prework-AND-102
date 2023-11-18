@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/qnugtlF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Evalenc6/Prework-AND-102/blob/main/Kapture%202023-11-18%20at%2014.43.45.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap from macOS  
